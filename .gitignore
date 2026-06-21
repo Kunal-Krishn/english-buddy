@@ -1,0 +1,14 @@
+# Streamlit secrets - never commit this
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Uploads
+uploads/
+*.wav
+*.webm
+*.mp3
